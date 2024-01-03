@@ -1,0 +1,54 @@
+{
+    "editor.fontSize": 20,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "php"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "eslint.format.enable": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "eslint.validate": [
+        "typescript",
+        "typescriptreact"
+    ],
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "editor.suggestFontSize": 20,
+    "editor.fontLigatures": true,
+    "editor.accessibilitySupport": "off",
+
+    "workbench.startupEditor": "none",
+    "files.trimTrailingWhitespace": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "editor.stickyScroll.enabled": true,
+    "prettier.tabWidth": 4,
+	"prettier.embeddedLanguageFormatting": "off",
+    "prettier.useTabs": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "typescript.tsserver.log": "off",
+    "terminal.integrated.fontFamily": "Casadia Mono",
+    "terminal.integrated.fontSize": 16
+}
